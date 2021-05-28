@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7077c7c8112004646b569dca67f5aca3, type: 3}
+  m_Name: CircuitDesignerPreferences
+  m_EditorClassIdentifier: 
+  SnapStep: 12
+  ZoomDelta: 0.2
+  RotateDelta: 0.2
+  MinZoom: 1
+  MaxZoom: 5
+  PanSpeed: 1.2
+  GridTexture: {fileID: 2800000, guid: ef472bd87e4a7514eade989e4050a79b, type: 3}
+  FallbackIcon: {fileID: -3791142158027022325, guid: 3278ef9420132ce4db3415737c1cb942, type: 3}
+  ConnectionColor: {r: 0, g: 1, b: 0, a: 1}
+  ConnectionWidth: 1.5
+  PossibleSections:
+  - RoadSection: {fileID: 11400000, guid: c75b695c5cdd08b41945ebd5e3da0350, type: 2}
+    RoadTexture: {fileID: -8142268100125699211, guid: 350633b0eeee5f5479668183c441ee10, type: 3}
+  - RoadSection: {fileID: 11400000, guid: f813a719907e02e4e9d072f5c941f902, type: 2}
+    RoadTexture: {fileID: -3909831190969664512, guid: e6eab67b0cfa7ed45aa5860c0d11dc65, type: 3}
+  - RoadSection: {fileID: 11400000, guid: c13dfb86015b2c74ba299b1d356602b9, type: 2}
+    RoadTexture: {fileID: 5430636011655856433, guid: 6b2fdfb93139c4a4f92863fc73bff9f5, type: 3}
+  - RoadSection: {fileID: 11400000, guid: 24eb634f2c9607d4e8182af4d42f9e52, type: 2}
+    RoadTexture: {fileID: 229213642078223305, guid: b31f79794cf55974c8e889aa5a69cdbd, type: 3}
+  - RoadSection: {fileID: 11400000, guid: b20ebdf24db2108479cedff936cb35df, type: 2}
+    RoadTexture: {fileID: -8004582161928784375, guid: 73a4e2de16cf11648bd80ee621b8325f, type: 3}
+  - RoadSection: {fileID: 11400000, guid: fd0701fca758f424396a844c2d2940f8, type: 2}
+    RoadTexture: {fileID: -3297163481935125003, guid: 8667449da4dd0104792c895d61258afa, type: 3}
+  - RoadSection: {fileID: 11400000, guid: 1a5cba90bafd8d54eb2c769d62f244e1, type: 2}
+    RoadTexture: {fileID: -6883538217293301573, guid: a18547cb975370c4f877b528805fcc5a, type: 3}
+  - RoadSection: {fileID: 11400000, guid: 9a70c6631e7fa834fb4e2729d9dc651d, type: 2}
+    RoadTexture: {fileID: -4211274987404054204, guid: 0c6c29492998e7c43a9cd7e481c28117, type: 3}
+  - RoadSection: {fileID: 11400000, guid: 59f91b4d236b79e4c9448f528abc2450, type: 2}
+    RoadTexture: {fileID: -2851351924782752097, guid: effa538700e143b468628143c3b6079c, type: 3}
+  - RoadSection: {fileID: 11400000, guid: 7d07db5de589efe45825629683469b87, type: 2}
+    RoadTexture: {fileID: 5158982704824693470, guid: 275e5f5be3ad23a4482d938fac72cdfc, type: 3}
+  - RoadSection: {fileID: 11400000, guid: 877683b01360a704b91d35c4c05ad48e, type: 2}
+    RoadTexture: {fileID: -4841040056064754076, guid: ab635dde88982b34c8d2fa1b6412a484, type: 3}
+  - RoadSection: {fileID: 11400000, guid: 6cc0d2f8cef486c42aa9ce1f410b9d9d, type: 2}
+    RoadTexture: {fileID: 8492283613522656346, guid: c5296331edf2f0c4aa690ca2a78abacc, type: 3}

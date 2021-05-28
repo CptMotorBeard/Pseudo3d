@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd57fd304dec9d644b10bee6db9f2ced, type: 3}
+  m_Name: Circuit_editor
+  m_EditorClassIdentifier: 
+  Circuit:
+  - m_rectPosition:
+      serializedVersion: 2
+      x: 112
+      y: 384
+      width: 64
+      height: 192
+  - m_rectPosition:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 64
+      height: 192
+  - m_rectPosition:
+      serializedVersion: 2
+      x: 112
+      y: 12
+      width: 64
+      height: 192
+  - m_rectPosition:
+      serializedVersion: 2
+      x: 117.5
+      y: -235.5
+      width: 149
+      height: 255
+  - m_rectPosition:
+      serializedVersion: 2
+      x: 208
+      y: -422
+      width: 64
+      height: 220
